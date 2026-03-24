@@ -1,6 +1,6 @@
 # QR Fare Transit System
 
-A secure oofline, dual-app transit fare management system built with Flutter and Dart for the Raenest Hackathon.
+A secure offline, dual-app transit fare management system built with Flutter and Dart for the Raenest Hackathon.
 
 ## Overview
 
