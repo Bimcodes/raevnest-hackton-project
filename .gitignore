@@ -1,0 +1,29 @@
+# Git Ignore for QR Fare Project
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Sensitive data
+.env*
+coverage/
+doc/api/
+ios/Flutter/Generated.xcconfig
+android/key.properties
+
+# OS files
+.DS_Store
+Thumbs.db
